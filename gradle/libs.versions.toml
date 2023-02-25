@@ -6,7 +6,7 @@ annotations = "24.0.0"
 junit = "5.9.2"
 
 # gradle plugins
-aggregate-javadoc = "6.6.2"
+aggregate-javadoc = "6.6.3"
 
 [libraries]
 
