@@ -1,6 +1,6 @@
 [versions]
 # libraries
-annotations = "24.0.0"
+annotations = "24.0.1"
 
 # testing tool
 junit = "5.9.2"
